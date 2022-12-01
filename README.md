@@ -12,8 +12,6 @@
 
 Skills:  JS / HTML / CSS / NODE JS / PHP / EXPRESS JS / 
 
-- 🔭 I’m currently working on this page. 
-
 
 
 
