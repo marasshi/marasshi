@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Adem Marashi
-#### I'm intersted in Software Engineer.
+#### I'm intersted in Software Engineering.
 💻 I'm currently learning Javascript.
 
 🚀 I'm focused to my career as a full-stack developer.
